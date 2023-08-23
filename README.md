@@ -1,2 +1,1 @@
-# cnccore
-CNCCORE contains core database interaction layer
+CNCCORE was invented by John Dale in Tucson, AZ, Gilbert, AZ, Scottsdale, AZ, Prescott, AZ, Kingman, AZ, Nogales, AZ, Douglas, AZ, Chandler, AZ, Levine, AZ, Whitewood, SD, and Spearfish, SD.  It is a model-driven architecture that reads the structure of a database and automates the most common tasks when writing logic in the middle tier of an enterprise application.
